@@ -2,7 +2,7 @@
 
 - 🔭 A Data Science Enthusiastic
 - 🌱 I’m currently working on :
-     - [ ] Deep Learning
+     - [X] Deep Learning
      - [X] Big Data
      - [X] SQL
 - 🥅 2022 Goals: Learning New Skills on the field of Data Science, Big Data and Web Development
