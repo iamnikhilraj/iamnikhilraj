@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ### Hi there 👋 
 
 - 🔭 A Data Science Enthusiastic
@@ -6,8 +8,13 @@
      - [X] Big Data
      - [X] SQL
 - 🥅 2022 Goals: Learning New Skills on the field of Data Science, Big Data and Web Development
-- ⚡ Fun fact: I like reading self-help and Finance books. 
-- 🌟 *Motivated by the desire to achieve success*
+- I like reading self-help and Finance books. 
+- 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP,CV
+- 🤔 I’m looking for Full-Time Job in Data Science / Machine Learning
+
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+
 
 ***
 
@@ -43,4 +50,26 @@ My career objective is to pursue a challenging career and be part of a progressi
 <a target="Linkedin" href="https://www.linkedin.com/in/nikhilraj8/"><img src="https://github.com/iamnikhilraj/iamnikhilraj/blob/main/assets/Linkedin.png" alt="Portfolio" width="415" height="165"></img></a>
 <br />
 
-[linkedin]: https://www.linkedin.com/in/navassherif
+[linkedin]: https://www.linkedin.com/in/nikhilraj8
+
+<h2>🎯 Statistics and Languages :</h2>
+<details> 
+  GitHub Profile Stats
+  <br/>
+    <img width="49%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=iamnikhilraj&show_icons=true&theme=blue-green" />
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnikhilraj&count=4&layout=compact&theme=blue-green" />
+  <br/>
+</details>
+
+<details> 
+  <summary>GitHub Profile Streak</summary>
+  <br/>
+  <p align="center">
+    <img alt="saravana's streak" src="https://github-readme-streak-stats.herokuapp.com?user=iamnikhilraj&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D"/> 
+  </p>
+  <br/>
+</details>
+
+ <!-- <div> -->
+<!--<img width="98%" alt="contributions graph" src="https://activity-graph.herokuapp.com/graph?username=saravana611&area=true&layout=compact&theme=react-dark" /> ––>
+<!-- </div>  -->
